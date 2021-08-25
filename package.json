@@ -1,0 +1,16 @@
+{
+  "name": "Floated-Navigator",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": {
+    "name": "Rodrigo Jacomeli A. Cunha",
+    "email": "rodrigo.devvga@gmail.com"
+  },
+  "devDependencies": {
+    "electron": "^13.2.2"
+  }
+}
